@@ -1,0 +1,3 @@
+<?php
+
+$myPark = "parkdarkhan.mn";
